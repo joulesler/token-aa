@@ -1,0 +1,14 @@
+{
+  "name": "account-abstraction",
+  "version": "1.0.0",
+  "description": "Repository for AA contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hardhat": "^2.18.3"
+  }
+}
